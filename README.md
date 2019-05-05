@@ -1,2 +1,5 @@
-# ra
-real analysis notes - lectures at ccp by brenton webber - mostly from john howie's book 
+# Real Analysis
+
+Mostly from  Real Analysis by John M. Howie
+
+lectures by Brenton Webber at CCP
